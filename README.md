@@ -1,4 +1,4 @@
-# JO_Prediction — Prédiction des performances olympiques
+# JO_Prediction : Prédiction des performances olympiques
 
 Projet visant à analyser et prédire les performances des pays aux Jeux Olympiques à partir de données économiques, géographiques et historiques.
 
